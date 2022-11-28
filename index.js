@@ -1,1 +1,1 @@
-module.exports = require('build/Release/js_enet');
+module.exports = require('./build/Release/js_enet');
